@@ -1,0 +1,23 @@
+1.agriculture land
+2.birth rate
+3.armed force sizes
+4.Co2 Emission
+5.CPI price change in economy
+6.fertility rate
+7.forested area
+8.gasolin price
+9.GDP
+10.primary education enrollment
+11.tertiary education enrollment
+12.infant mortality
+13.life expantancy
+14.maternal mortality ratio
+15.minimum wage
+16.out of pocket health expendicture
+17.physicians per thousand
+18.population
+19.labour force participation
+20.tax revenue
+21.tax rate
+22.unemployement rate
+23.urban population
